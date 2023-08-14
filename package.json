@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "name": "appt",
+  "version": "1.0.0",
+  "description": "progressive test dev",
+  "main": "index.js",
+  "scripts": {
+    "run" : "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mo Alemzadev <alemzadev@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@solana/web3.js": "^1.78.0"
+  }
+}
